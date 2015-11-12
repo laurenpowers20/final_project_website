@@ -4,7 +4,7 @@
 
 body {
     font-family: sans-serif;
-    background-color: gray;
+    background-color: #D8D8D8;
     margin: 10px;
 
 
@@ -14,7 +14,7 @@ nav ul {
     width: 100%;
     height: auto;
     padding: 14px;
-    background-color: gray;
+    background-color: #D8D8D8;
     display: inline-block;
 }
 
@@ -28,18 +28,18 @@ nav li {
 
 nav a {
     text-decoration: none;
-    background-color: gray;
+    background-color: #D8D8D8;
     color: #000000;
 }
 
 nav a:hover {
     text-decoration: none;
-    background-color: white;
+    background-color: #BEBBCA;
     color: #000000;
     width: 100%;
     height: auto;
     padding: 10px;
-    border: 2px solid #D8D8D8;
+    border: 2px solid #BEBBCA;
     border-radius: 5px;
 }
 
